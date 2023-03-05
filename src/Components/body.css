@@ -1,0 +1,9 @@
+.abody {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    height: 50vh;
+    margin-top: 10px;
+    position: relative;
+    background-color: red;
+}
